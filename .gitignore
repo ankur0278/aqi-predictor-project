@@ -1,0 +1,8 @@
+data/raw/city_hour.csv
+data/raw/station_hour.csv
+data/raw/station_day.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+.env
