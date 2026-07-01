@@ -7,3 +7,11 @@ __pycache__/
 .streamlit/
 .env
 models/
+data/raw/
+data/processed/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+.env
